@@ -34,7 +34,7 @@ Projeto criado para simular um sistema de detecção de incêndio com **Arduino*
 
 ## 📷 Imagem do Projeto
 
-<img src="https://i.postimg.cc/VNwRBpz9/arduino.png" alt="Imagem do circuito no Tinkercad" width="60%" />
+<img src="https://i.postimg.cc/VNwRBpz9/arduino.png" alt="Imagem do circuito no Tinkercad" width="100%" />
 
 ---
 
