@@ -1,5 +1,5 @@
 # Alarme de Incêndio 🔥  
-Projeto criado para simular um sistema de detecção de incêndio com **Arduino** no **Tinkercad**. O sistema alerta com um LED e um buzzer quando há detecção de fogo.
+Projeto criado para simular um sistema de detecção de incêndio com **Arduino** no **Tinkercad**. O sistema alerta com um LED e um buzzer quando há detecção de fogo. Criado como projeto final para a conclusão da monitoria de Arduino na **EEEP Deputado Roberto Mesquita**.
 
 ---
 
@@ -16,6 +16,7 @@ Projeto criado para simular um sistema de detecção de incêndio com **Arduino*
 - Sistema que alerta com LED e buzzer a presença de incêndio.
 - Projeto criado e testado na plataforma Tinkercad.
 - Ideal para simulações educacionais e aprendizado de eletrônica básica com Arduino.
+- Criado como projeto final para a conclusão da monitoria de Arduino na **EEEP Deputado Roberto Mesquita**.
 
 ---
 
@@ -27,7 +28,7 @@ Projeto criado para simular um sistema de detecção de incêndio com **Arduino*
 
 ## 🔗 Link no Tinkercad
 
-[**Veja aqui o projeto no Tinkercad**](https://www.tinkercad.com) <!-- Substitua com o link real do seu projeto -->
+[**Veja aqui o projeto no Tinkercad**](https://www.tinkercad.com/things/4a3W4yFwCp9-alarme-de-incendio?sharecode=BfZvfnQWdS1Xg4UpNj7AHB3MUyHjT7Batkjz9wGuoyY)
 
 ---
 
@@ -41,4 +42,3 @@ Projeto criado para simular um sistema de detecção de incêndio com **Arduino*
 
 **Luciano Quintela**  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucianoquintela)
-
