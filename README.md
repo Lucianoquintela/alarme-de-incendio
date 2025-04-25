@@ -42,3 +42,8 @@ Projeto criado para simular um sistema de detecção de incêndio com **Arduino*
 
 **Luciano Quintela**  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucianoquintela)
+
+**Orientadores:**  
+- Professor Everson Sousa
+- Professor Carlos Gomes
+- Professor Samuel Patrício
